@@ -95,8 +95,7 @@ A **Dynamic Event Calendar Application** built with React.js to manage and displ
 ### **Installation**
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd dynamic-event-calendar
+   gh repo clone aakash0101x/Dynamic-Event-Calendar-Application
 2. Install dependencies:
    ```bash
    npm install
